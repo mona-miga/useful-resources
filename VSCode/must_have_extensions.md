@@ -4,14 +4,10 @@ A list of my must-haves VS Code extensions!
 ![](images/beautify.png)
 
 ⌾ Name: Beautify
-
 ⌾ Description: Beautify code in place for VS Code
-
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
-![](RackMultipart20210119-4-w12bzh_html_981da44633f54b92.gif)
-
-![](RackMultipart20210119-4-w12bzh_html_c576ee370783430e.png)
+![](images/beautify.png)
 
 ⌾ Name: Bookmarks
 
