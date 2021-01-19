@@ -1,5 +1,6 @@
-A list of my must-haves VS Code extensions!
-----------------------------------------------------------------
+# A list of my must-haves VS Code extensions!
+
+****************************************************************
 
 ![](images/beautify.png)
 
@@ -9,6 +10,8 @@ A list of my must-haves VS Code extensions!
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
+****************************************************************
+
 ![](images/bookmarks.png)
 
 ⌾ Name: Bookmarks
@@ -16,6 +19,8 @@ A list of my must-haves VS Code extensions!
 ⌾ Description: Mark lines and jump to them
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) 
+
+****************************************************************
 
 ![](images/bracket_pair_colorizer_2.png)
 
@@ -25,6 +30,8 @@ A list of my must-haves VS Code extensions!
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
+****************************************************************
+
 ![](images/code_runner.png)
 
 ⌾ Name: Code Runner
@@ -32,6 +39,8 @@ A list of my must-haves VS Code extensions!
 ⌾ Description: Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, etc….
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+****************************************************************
 
 ![](images/control_snippets.png)
 
@@ -41,9 +50,13 @@ A list of my must-haves VS Code extensions!
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=svipas.control-snippets](https://marketplace.visualstudio.com/items?itemName=svipas.control-snippets)
 
+****************************************************************
+
 ![](images/dracula_themes.png)
 
 ⌾ Name: Dracula Themes
+
+****************************************************************
 
 ![](images/endwise.png)
 
@@ -53,6 +66,8 @@ A list of my must-haves VS Code extensions!
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise)
 
+****************************************************************
+
 ![](images/gitlens.png)
 
 ⌾ Name: GitLens — Git supercharged
@@ -60,6 +75,8 @@ A list of my must-haves VS Code extensions!
 ⌾ Description: Supercharge the Git capabilities built into Visual Studio Code
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+****************************************************************
 
 ![](images/html_preview.png)
 
@@ -69,6 +86,8 @@ A list of my must-haves VS Code extensions!
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=george-alisson.html-preview-vscode](https://marketplace.visualstudio.com/items?itemName=george-alisson.html-preview-vscode)
 
+****************************************************************
+
 ![](images/html_snippets.png)
 
 ⌾ Name: HTML Snippets
@@ -76,6 +95,8 @@ A list of my must-haves VS Code extensions!
 ⌾ Description: Full HTML tags including HTML5 Snippets
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
+
+****************************************************************
 
 ![](images/image_preview.png)
 
@@ -85,6 +106,8 @@ A list of my must-haves VS Code extensions!
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 
+****************************************************************
+
 ![](images/indent_rainbow.png)
 
 ⌾ Name: indent-rainbow
@@ -93,8 +116,13 @@ A list of my must-haves VS Code extensions!
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
+****************************************************************
+
 ![](images/material_theme.png)
+
 ⌾ Name: Material Theme
+
+****************************************************************
 
 ![](images/music_time_for_spotify.png)
 
@@ -104,6 +132,8 @@ A list of my must-haves VS Code extensions!
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=softwaredotcom.music-time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.music-time)
 
+****************************************************************
+
 ![](images/peacock.png)
 
 ⌾ Name: Peacock
@@ -111,6 +141,8 @@ A list of my must-haves VS Code extensions!
 ⌾ Description: Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+
+****************************************************************
 
 ![](images/prettier.png)
 
@@ -120,6 +152,8 @@ A list of my must-haves VS Code extensions!
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
+****************************************************************
+
 ![](images/printcode.png)
 
 ⌾ Name: PrintCode/Save as PDF
@@ -127,6 +161,8 @@ A list of my must-haves VS Code extensions!
 ⌾ Description: Added printing function to VS Code!!
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode](https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode)
+
+****************************************************************
 
 ![](images/rename_terminal_button.png)
 
@@ -136,6 +172,8 @@ A list of my must-haves VS Code extensions!
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=sketchbuch.vsc-rename-terminal-button](https://marketplace.visualstudio.com/items?itemName=sketchbuch.vsc-rename-terminal-button)
 
+****************************************************************
+
 ![](images/ruby_solargraph.png)
 
 ⌾ Name: Ruby Solargraph
@@ -143,6 +181,8 @@ A list of my must-haves VS Code extensions!
 ⌾ Description: A Ruby language server featuring code completion, intellisense, and inline documentation
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=castwide.solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)
+
+****************************************************************
 
 ![](images/tabnine.png)
 
@@ -152,6 +192,8 @@ A list of my must-haves VS Code extensions!
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 
+****************************************************************
+
 ![](images/terminal_all_in_one.png)
 
 ⌾ Name: Terminal All In One
@@ -159,6 +201,8 @@ A list of my must-haves VS Code extensions!
 ⌾ Description: Enhance your integrated terminal with themes, scripts, keybindings, and commands.
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=yasht.terminal-all-in-one](https://marketplace.visualstudio.com/items?itemName=yasht.terminal-all-in-one)
+
+****************************************************************
 
 ![](images/vscode_ruby.png)
 
@@ -168,6 +212,8 @@ A list of my must-haves VS Code extensions!
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby](https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby)
 
+****************************************************************
+
 ![](images/wakatime.png)
 
 ⌾ Name: WakaTime
@@ -175,3 +221,5 @@ A list of my must-haves VS Code extensions!
 ⌾ Description: Metrics, insights, and time tracking automatically generated from your programming activity.
 
 ⌾ VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+
+****************************************************************
