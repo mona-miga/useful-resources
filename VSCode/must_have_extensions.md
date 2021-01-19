@@ -181,3 +181,11 @@
 ⌾ Description: Metrics, insights, and time tracking automatically generated from your programming activity.
 
 ****************************************************************
+
+![](images/better_comments.png)
+
+⌾ [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+
+⌾ Description: Improve your code commenting by annotating with alert, informational, TODOs, and more!
+
+****************************************************************
