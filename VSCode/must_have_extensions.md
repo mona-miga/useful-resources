@@ -1,8 +1,7 @@
 A list of my must-haves VS Code extensions!
+----------------------------------------------------------------
 
-![](RackMultipart20210119-4-w12bzh_html_981da44633f54b92.gif)
-
-![](RackMultipart20210119-4-w12bzh_html_392a9ff83d899465.png)
+![](images/beautify.png)
 
 ⌾ Name: Beautify
 
